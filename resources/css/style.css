@@ -13,7 +13,25 @@ h1 {
   color: white;
 }
 
-#links {
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h4 {
   font-size: 18px;
   color: white;
+}
+
+#subhead {
+  color: white;
+}
+
+p {
+  font-size: 14px;
 }
