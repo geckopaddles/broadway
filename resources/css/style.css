@@ -28,10 +28,22 @@ h4 {
   color: white;
 }
 
+#linktext {
+  font-size: 18px;
+  color: white;
+}
+
 #subhead {
   color: white;
 }
 
 p {
   font-size: 14px;
+}
+
+.footer {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
 }
