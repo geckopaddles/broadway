@@ -23,18 +23,19 @@ h3 {
   font-weight: bold;
 }
 
-h4 {
-  font-size: 18px;
+h4 a {
   color: white;
+  font-size: 18px;
 }
 
-#linktext {
+#linktext a {
   font-size: 18px;
   color: white;
 }
 
 #subhead {
   color: white;
+
 }
 
 p {
